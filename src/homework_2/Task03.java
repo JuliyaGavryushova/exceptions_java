@@ -27,7 +27,7 @@ package homework_2;
 //2. Метод main «пробрасывает» исключение Exception, данное исключение является высокоуровневым, соответсвенно
 // при попытке скомпилировать эту программу все исключения будут уже перехвачены, и операторы catch не будут выполнены.
 //3. Думаю, правильным будет обработать следующие исключения: ArrayIndexOutOfВoundsException, ArithmeticException.
-//
+
 
 public class Task03 {
     public static void main(String[] args) {
